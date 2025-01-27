@@ -2,7 +2,7 @@
 
 This project focuses on predicting the likelihood of heart disease based on various medical attributes. The dataset includes several features that provide insights into the patient's health status. The prediction target is whether a patient has heart disease (Positive or Negative).
 
-Dataset Description
+## Dataset Description
 
 Features (X)
 
@@ -57,5 +57,12 @@ Thalassemia (thal): Ordinal
   6: Fixed defect
   
   7: Reversible defect
+
+## Data Types
+Continuous: Quantitative data measured on a continuous scale (e.g., Age, Blood Pressure).
+
+Ordinal: Categorical data with a defined order or ranking (e.g., Chest Pain Type, Slope of the Peak Exercise ST Segment).
+
+Binary: Categorical data with two possible outcomes (e.g., Sex, Exercise Induced Angina).
 
 
