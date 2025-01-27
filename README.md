@@ -12,10 +12,13 @@ Sex: Binary (1 = Male, 0 = Female) - The gender of the patient.
 
 Chest Pain Type (cp): Ordinal (4 values)
 
-1: Typical angina
-2: Atypical angina
-3: Non-anginal pain
-4: Asymptomatic
+  1: Typical angina
+  
+  2: Atypical angina
+  
+  3: Non-anginal pain
+  
+  4: Asymptomatic
 
 Resting Blood Pressure (trestbps): Continuous (numeric) - Resting blood pressure (mm Hg).
 
@@ -25,9 +28,11 @@ Fasting Blood Sugar (fbs): Binary (1 = true, 0 = false) - Fasting blood sugar le
 
 Resting Electrocardiography Results (restecg): Ordinal (Values: 0, 1, 2)
 
-0: Normal
-1: Having ST-T wave abnormality
-2: Showing probable or definite left ventricular hypertrophy
+  0: Normal
+  
+  1: Having ST-T wave abnormality
+  
+  2: Showing probable or definite left ventricular hypertrophy
 
 Maximum Heart Rate Achieved (thalach): Continuous (numeric) - Maximum heart rate achieved during exercise.
 
@@ -37,16 +42,20 @@ ST Depression Induced by Exercise Relative to Rest (oldpeak): Continuous (numeri
 
 Slope of the Peak Exercise ST Segment (slope): Ordinal
 
-1: Upsloping
-2: Flat
-3: Downsloping
+  1: Upsloping
+  
+  2: Flat
+  
+  3: Downsloping
 
 Number of Major Vessels Colored by Fluoroscopy (ca): Ordinal (0-3) - Number of major vessels colored by fluoroscopy.
 
 Thalassemia (thal): Ordinal
 
-3: Normal
-6: Fixed defect
-7: Reversible defect
+  3: Normal
+  
+  6: Fixed defect
+  
+  7: Reversible defect
 
 
